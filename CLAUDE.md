@@ -8,6 +8,10 @@ and green, phase by phase, verifying each step.
 
 ## Read this first
 
+**SBC fork:** start with `docs/context/SBC-HANDOVER.md` — where this repo came
+from, what is ours vs upstream, the infrastructure as found, and the agreed next
+steps. `STATE.md` describes the upstream team's deployment, not ours.
+
 `docs/context/` is the live working memory for this build — read it at the start of
 every session, and update it as you go:
 
